@@ -1,5 +1,5 @@
 # tla-input
-TLA+ Unicode input for Emacs. Based on the [tlaplus-standard](https://github.com/tlaplus/tlaplus-standard/tree/main/unicode)
+TLA+ Unicode input for Emacs. Based on the [tlaplus standard](https://github.com/tlaplus/rfcs/tree/2a772d9dd11acec5d7dedf30abfab91a49de48b8/accepted_rfcs/rfc5_unicode)
  and the Neovim plugin [tlaplus-community/tlaplus-nvim-plugin](https://github.com/tlaplus-community/tlaplus-nvim-plugin).
 
 ## Installation
